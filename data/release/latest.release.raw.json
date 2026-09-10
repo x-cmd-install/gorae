@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14094498,
       "digest": "sha256:408c6c91b24be445227255239155dbe071c7e44bada3bbbf265c3634856ef537",
-      "download_count": 27,
+      "download_count": 29,
       "created_at": "2026-08-02T00:57:54Z",
       "updated_at": "2026-08-02T00:58:04Z",
       "browser_download_url": "https://github.com/Han8931/gorae/releases/download/v2.4.0/gorae-linux-amd64"
