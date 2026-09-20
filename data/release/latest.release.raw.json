@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14332592,
       "digest": "sha256:4e05c97c14f15dfba41366082603086be0f605017918703d9172a4dc7436a49e",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-08-02T00:58:14Z",
       "updated_at": "2026-08-02T00:58:24Z",
       "browser_download_url": "https://github.com/Han8931/gorae/releases/download/v2.4.0/gorae-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14094498,
       "digest": "sha256:408c6c91b24be445227255239155dbe071c7e44bada3bbbf265c3634856ef537",
-      "download_count": 40,
+      "download_count": 41,
       "created_at": "2026-08-02T00:57:54Z",
       "updated_at": "2026-08-02T00:58:04Z",
       "browser_download_url": "https://github.com/Han8931/gorae/releases/download/v2.4.0/gorae-linux-amd64"
