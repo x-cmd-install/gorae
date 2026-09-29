@@ -12,15 +12,15 @@ x install gorae
 
 ## Code insight
 
-Total: **19,686** lines of code across **77** files in the top 5 languages.
+Total: **20,723** lines of code across **83** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 19,276 | 1,011 | 1,881 | 63 |
+| Go | 20,313 | 1,106 | 1,980 | 69 |
 | Toml | 255 | 4 | 69 | 3 |
 | Sh | 103 | 13 | 21 | 4 |
 | Svg | 52 | 1 | 1 | 1 |
-| Markdown | 0 | 541 | 190 | 6 |
+| Markdown | 0 | 564 | 194 | 6 |
 
 ## Source
 
@@ -30,7 +30,7 @@ Total: **19,686** lines of code across **77** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.4.0` (2026-08-02)
-- **Last commit**: 2026-08-02
+- **Last commit**: 2026-09-28
 - **Assets in release**: 4
 
 ## Popularity
@@ -39,18 +39,18 @@ Total: **19,686** lines of code across **77** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 183
+- **Releases**: 7 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 186
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 3 | 0 | 0 | 0 | 0 | 25 |
-| last180d | 2026-04-01 | 5 | 0 | 0 | 2 | 1 | 70 |
-| 360d | 2025-10-03 | 7 | 0 | 0 | 6 | 1 | 173 |
-| last720d | 2024-10-08 | 7 | 0 | 0 | 6 | 1 | 183 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-31 | 1 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-07-01 | 3 | 0 | 0 | 0 | 0 | 27 |
+| last180d | 2026-04-02 | 5 | 0 | 0 | 2 | 1 | 72 |
+| 360d | 2025-10-04 | 7 | 0 | 0 | 6 | 1 | 175 |
+| last720d | 2024-10-09 | 7 | 0 | 0 | 6 | 1 | 186 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for gorae lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:06:41Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:22:49Z._
