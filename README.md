@@ -45,12 +45,12 @@ Total: **20,723** lines of code across **83** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-07-07 | 3 | 0 | 0 | 0 | 0 | 27 |
-| last180d | 2026-04-08 | 5 | 0 | 0 | 2 | 1 | 59 |
-| 360d | 2025-10-10 | 7 | 0 | 0 | 6 | 1 | 175 |
-| last720d | 2024-10-15 | 7 | 0 | 0 | 6 | 1 | 186 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-07-08 | 3 | 0 | 0 | 0 | 0 | 27 |
+| last180d | 2026-04-09 | 5 | 0 | 0 | 2 | 1 | 59 |
+| 360d | 2025-10-11 | 7 | 0 | 0 | 6 | 1 | 175 |
+| last720d | 2024-10-16 | 7 | 0 | 0 | 6 | 1 | 186 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for gorae lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:21:25Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:07:45Z._
