@@ -28,12 +28,12 @@
   "node_id": "RE_kwDOQhzu984YN7ns",
   "tag_name": "v2.6.0",
   "target_commitish": "main",
-  "name": "Title: v2.6.0 — In-app metadata editor",
+  "name": "v2.6.0 — In-app metadata editor",
   "draft": false,
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-10-08T01:08:06Z",
-  "updated_at": "2026-10-08T01:15:45Z",
+  "updated_at": "2026-10-08T10:12:46Z",
   "published_at": "2026-10-08T01:15:45Z",
   "assets": [
     {
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15098016,
       "digest": "sha256:cec9ad12b0c3218e4e3f32a9e28552c18e566c35331849a31b67b194e9238d83",
-      "download_count": 3,
+      "download_count": 8,
       "created_at": "2026-10-08T01:15:26Z",
       "updated_at": "2026-10-08T01:15:29Z",
       "browser_download_url": "https://github.com/Han8931/gorae/releases/download/v2.6.0/gorae-linux-amd64"
