@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15098016,
       "digest": "sha256:cec9ad12b0c3218e4e3f32a9e28552c18e566c35331849a31b67b194e9238d83",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-08T01:15:26Z",
       "updated_at": "2026-10-08T01:15:29Z",
       "browser_download_url": "https://github.com/Han8931/gorae/releases/download/v2.6.0/gorae-linux-amd64"
