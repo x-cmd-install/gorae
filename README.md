@@ -20,7 +20,7 @@ Total: **23,362** lines of code across **93** files in the top 5 languages.
 | Toml | 255 | 4 | 69 | 3 |
 | Sh | 108 | 24 | 24 | 4 |
 | Svg | 52 | 1 | 1 | 1 |
-| Markdown | 0 | 583 | 197 | 6 |
+| Markdown | 0 | 584 | 197 | 6 |
 
 ## Source
 
@@ -30,7 +30,7 @@ Total: **23,362** lines of code across **93** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.6.0` (2026-10-08)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-11
 - **Assets in release**: 5
 
 ## Popularity
@@ -39,18 +39,18 @@ Total: **23,362** lines of code across **93** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 194
+- **Releases**: 9 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 1 · **Commits**: 195
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 2 | 0 | 0 | 0 | 0 | 9 |
-| last60d | 2026-08-12 | 2 | 0 | 0 | 0 | 0 | 9 |
-| 90d | 2026-07-13 | 5 | 0 | 0 | 0 | 0 | 34 |
-| last180d | 2026-04-14 | 7 | 0 | 0 | 2 | 1 | 51 |
-| 360d | 2025-10-16 | 9 | 0 | 0 | 6 | 1 | 182 |
-| last720d | 2024-10-21 | 9 | 0 | 0 | 6 | 1 | 194 |
+| 30d | 2026-09-12 | 2 | 0 | 0 | 0 | 0 | 10 |
+| last60d | 2026-08-13 | 2 | 0 | 0 | 0 | 0 | 10 |
+| 90d | 2026-07-14 | 5 | 0 | 0 | 0 | 0 | 35 |
+| last180d | 2026-04-15 | 7 | 0 | 0 | 2 | 1 | 52 |
+| 360d | 2025-10-17 | 9 | 0 | 0 | 6 | 1 | 183 |
+| last720d | 2024-10-22 | 9 | 0 | 0 | 6 | 1 | 195 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for gorae lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:23:11Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:45:51Z._
