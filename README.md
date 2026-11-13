@@ -10,18 +10,6 @@
 x install gorae
 ```
 
-## Code insight
-
-Total: **24,877** lines of code across **103** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 24,453 | 1,841 | 2,491 | 89 |
-| Toml | 255 | 4 | 69 | 3 |
-| Sh | 117 | 30 | 25 | 4 |
-| Svg | 52 | 1 | 1 | 1 |
-| Markdown | 0 | 606 | 197 | 6 |
-
 ## Source
 
 - **Upstream**: <https://github.com/Han8931/gorae>
@@ -35,7 +23,7 @@ Total: **24,877** lines of code across **103** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 100 · **Forks**: 1 · **Open issues**: 7 · **Contributors**: 1
+- **Stars**: 101 · **Forks**: 1 · **Open issues**: 7 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -45,12 +33,12 @@ Total: **24,877** lines of code across **103** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-13 | 2 | 0 | 0 | 0 | 0 | 15 |
-| 90d | 2026-08-14 | 2 | 0 | 0 | 0 | 0 | 15 |
-| last180d | 2026-05-16 | 5 | 0 | 0 | 1 | 0 | 41 |
-| 360d | 2025-11-17 | 9 | 0 | 0 | 6 | 1 | 188 |
-| last720d | 2024-11-22 | 9 | 0 | 0 | 6 | 1 | 200 |
+| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-14 | 2 | 0 | 0 | 0 | 0 | 15 |
+| 90d | 2026-08-15 | 2 | 0 | 0 | 0 | 0 | 15 |
+| last180d | 2026-05-17 | 5 | 0 | 0 | 1 | 0 | 41 |
+| 360d | 2025-11-18 | 9 | 0 | 0 | 6 | 1 | 188 |
+| last720d | 2024-11-23 | 9 | 0 | 0 | 6 | 1 | 200 |
 
 ## Release assets
 
@@ -71,4 +59,4 @@ Install metadata for gorae lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:21:29Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:31:20Z._
